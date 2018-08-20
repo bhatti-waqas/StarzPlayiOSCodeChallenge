@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - NetworkLayer-bhatti (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - AlamofireImage
+  - NetworkLayer-bhatti
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  NetworkLayer-bhatti: 2328105fe5fb3800711bfc73559000823c9baf70
+
+PODFILE CHECKSUM: 80d7573ceaf68a2a6e0e8ace533acb53f1a9dee0
+
+COCOAPODS: 1.4.0
